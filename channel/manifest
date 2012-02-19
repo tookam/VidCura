@@ -1,0 +1,9 @@
+title=Channel 1
+subtitle=Channel 1 1
+mm_icon_focus_hd=pkg:/images/index.jpg
+mm_icon_side_hd=pkg:/images/index1.jpg
+mm_icon_focus_sd=pkg:/images/index2.jpg
+mm_icon_side_sd=pkg:/images/index3.jpg
+major_version=1
+minor_version=0
+build_version=00001

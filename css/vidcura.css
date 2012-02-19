@@ -1,0 +1,35 @@
+/************ CATEGORY MANAGEMENT *********************/
+
+li.cat-item {
+    background: -moz-linear-gradient(#FAFAFA, #EFEFEF) repeat scroll 0 0 transparent;
+    border: 1px solid #CCCCCC;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 1px rgba(255, 255, 255, 0.4) inset, 1px 1px 1px #EEEEEE;
+    margin: 20px;
+    padding: 5px 10px;
+}
+
+li.cat-item div.handle {
+    background: url("../images/handle.png") repeat scroll 0 0 transparent;
+    border: 0 none;
+    cursor: move;
+    float: left;
+    height: 18px;
+    margin: 0 5px 0 -5px;
+    width: 20px;
+}
+
+div.tasks {
+    background: none repeat scroll 0 0 transparent !important;
+    border: 0 none !important;
+    border-radius: 0 0 0 0;
+    box-shadow: 0 0 0 0 transparent;
+    float: right;
+    opacity: 0.5;
+    padding: 0 0 0 5px;
+    width: 250px;
+}
+
+ul {
+    list-style: none;
+}

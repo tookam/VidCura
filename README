@@ -1,0 +1,21 @@
+=== VidCura ===
+Contributors: wtekeu
+Tags: wordpress, roku
+Requires at least: 3.0
+Tested up to: 3.2.1
+Stable tag: trunk
+Site: http://vidcura.org
+
+VidCura is a WordPress plugin that facilitates the creation of Roku channels.
+
+== Description ==
+
+VidCura is a very specific plugin. The focus is on providing tools that help facilitate the process of creating a connected TV channel. 
+
+The first release of VidCura focuses on the Roku platform. So, in essence, VidCura is a WordPress that permits the creation of a Roku channel.
+
+== Installation ==
+
+1. Upload VidCura to the `/wp-content/plugins/` directory (and unzip it if necessary)
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Use the VidCura and Assets menu entries to start building your channel!
